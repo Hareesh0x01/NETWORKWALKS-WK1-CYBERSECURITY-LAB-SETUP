@@ -150,6 +150,7 @@ After all configurations were applied, the Kali Linux virtual machine was powere
 
 ![Kali Linux Running](screenshots/kali3.png)
 ![Kali Linux Running](screenshots/kali4.png)
+![Kali Linux 2026](screenshots/kali-2026.jpg)
 
 ---
 
