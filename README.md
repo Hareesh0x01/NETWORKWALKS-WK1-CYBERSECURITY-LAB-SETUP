@@ -1,6 +1,6 @@
 # 🛡️ Week 1 — Cybersecurity Lab Setup
 
-> **NetworkWalks Cybersecurity Internship | Week 1 Project**
+> **NetworkWalks Cybersecurity Internship Batch 083| Week 1 Project**
 > Setting up a professional penetration testing environment using Kali Linux, Oracle VirtualBox, and NAT Networking.
 
 ---
